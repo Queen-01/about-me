@@ -7,5 +7,22 @@
 .one{
     text-align: center;
     align-items: center;
-    padding-top: 100px;
+    padding-top: 50px;
+}
+nav>ul{
+    text-align: right;
+}
+nav> ul li{
+    list-style: none;
+    padding: 5px;
+    display: inline-block;
+    /*text-align: end;*/
+}
+nav>ul>li>a {
+    padding: 10px;
+    margin-right: 0;
+    text-transform: uppercase;
+    display: block;
+    color: white;
+    font-size: 20px;
 }
