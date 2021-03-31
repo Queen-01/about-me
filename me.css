@@ -2,4 +2,10 @@
     background-image: url(bob.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 400px;
+}
+.one{
+    text-align: center;
+    align-items: center;
+    padding-top: 100px;
 }
