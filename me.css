@@ -59,3 +59,23 @@ p{
 .fin{
     display: flex;
 }
+.fourty{
+    box-sizing: border-box;
+    box-shadow: 2px 2px 3px black;
+}
+#fav{
+    box-sizing: border-box;
+    box-shadow: 2px 2px 3px black;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: #706e75;
+        color: black;
+    } 
+}
+.cook{
+    text-align: center;
+    box-shadow: 3px 3px 4px black;
+    box-sizing: content-box;
+    display: inline;
+}
