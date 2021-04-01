@@ -56,3 +56,6 @@ p{
 #projects{
     background-color: beige;
 }
+.fin{
+    display: flex;
+}
