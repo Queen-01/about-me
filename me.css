@@ -1,8 +1,9 @@
 #DIA{
-    background-image: url(bob.jpeg);
+    background-image: url(don.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
+    background-blend-mode: darken;
 }
 .one{
     text-align: center;
@@ -40,4 +41,7 @@ h2{
 p{
     font-size: 25px;
     font-family: cursive;
+}
+#projects{
+    background-color: beige;
 }
