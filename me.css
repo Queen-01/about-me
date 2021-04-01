@@ -1,4 +1,4 @@
-#DIA{
+body{
     background-image: url(bran.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,7 +8,7 @@
 #home{
     background-color: violet;
     float: left;
-    height: 600px;
+    height: 1000px;
     text-align: left;
 }
 img{
@@ -54,7 +54,7 @@ p{
     font-family: cursive;
 }
 #projects{
-    background-color: beige;
+    background-color: navajowhite;
 }
 .fin{
     display: flex;
@@ -67,15 +67,35 @@ p{
     box-sizing: border-box;
     box-shadow: 2px 2px 3px black;
 }
-@media screen and (min-width: 480px) {
+/*@media screen and (min-width: 480px) {
     body {
         background-color: #706e75;
         color: black;
     } 
-}
+}*/
 .cook{
     text-align: center;
     box-shadow: 3px 3px 4px black;
     box-sizing: content-box;
     display: inline;
+}
+#biography{
+    background-color: navajowhite;
+}
+.pow{
+    display: flex;
+}
+h3{
+    font-weight: 800;
+    font-size: 30px;
+}
+.wop{
+    text-align: center;
+    clear: right;
+    /*justify-content: right;*/
+    /*align-items: flex-start;*/
+    /*padding-bottom: 20px;*/
+    /*margin-bottom: 30px;*/
+    display: inline-block;
+    position: relative;
 }
