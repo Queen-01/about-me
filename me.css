@@ -1,14 +1,25 @@
 #DIA{
-    background-image: url(don.jpeg);
+    background-image: url(bran.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
     background-blend-mode: darken;
 }
+#home{
+    background-color: violet;
+    float: left;
+    height: 600px;
+    text-align: left;
+}
+img{
+    box-shadow: 3px 3px 5px w;
+    box-sizing: content-box;
+}
 .one{
     text-align: center;
     align-items: center;
     padding-top: 50px;
+    box-sizing: border-box;
 }
 nav>ul{
     text-align: right;
